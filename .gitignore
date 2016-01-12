@@ -1,0 +1,6 @@
+.idea*
+__pycache__/*
+all_images/
+day_files/
+night_files/
+MNIST_data/*
